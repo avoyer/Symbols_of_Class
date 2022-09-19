@@ -1,7 +1,7 @@
 # Symbols of Class
 Replication package to accompany research paper "Symbols of class: A computational analysis of class distinction-making through etiquette, 1922 -2017" by Andrea Voyer, Zachary D. Kline, and Madison Danton.
 
-The syntax included in this replication package can be used to replicate the analyses presented in the main paper, and in the accompanying online appendices. Please find here a matching guide:
+The syntax included in this replication package can be used to replicate the analyses presented in the main paper, and in the accompanying online appendices.
 
 # Accessing the Corpus
 
